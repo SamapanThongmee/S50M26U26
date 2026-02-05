@@ -6,3 +6,4 @@ pandas
 matplotlib
 python-dotenv
 git+https://github.com/batprem/price-loaders.git
+websocket-client
