@@ -494,36 +494,12 @@ class CalendarSpreadAnalyzer:
 # =============================================================================
 SPREAD_CONFIGS = [
     {
-        'near_symbol': 'S50G2026',
-        'far_symbol': 'S50H2026',
-        'near_expiry': '2026-02-26',
-        'far_expiry': '2026-03-30',
-        'near_label': 'Feb',
-        'far_label': 'Mar'
-    },
-    {
-        'near_symbol': 'S50H2026',
-        'far_symbol': 'S50M2026',
-        'near_expiry': '2026-03-30',
-        'far_expiry': '2026-06-29',
-        'near_label': 'Mar',
-        'far_label': 'Jun'
-    },
-    {
         'near_symbol': 'S50M2026',
         'far_symbol': 'S50U2026',
         'near_expiry': '2026-06-29',
         'far_expiry': '2026-09-29',
         'near_label': 'Jun',
         'far_label': 'Sep'
-    },
-    {
-        'near_symbol': 'S50U2026',
-        'far_symbol': 'S50Z2026',
-        'near_expiry': '2026-09-29',
-        'far_expiry': '2026-12-29',
-        'near_label': 'Sep',
-        'far_label': 'Dec'
     }
 ]
 
